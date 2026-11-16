@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=newWord
+comment0.target=WordFreq(java.lang.String)
+comment1.params=
+comment1.target=void\ inc()
+comment2.params=other
+comment2.target=int\ compareTo(WordFreq)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ wordIs()
+comment5.params=
+comment5.target=int\ freqIs()
+numComments=6
